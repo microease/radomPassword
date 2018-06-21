@@ -1,0 +1,115 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin-top: 10px;
+ 	background: #c1c1c1 url('images/bg.png') repeat-x 0 0;
+	text-align: center;
+	color: #323232;
+	font-family: arial;
+	font-size: 13px;
+}
+
+img {
+	border-style: none;
+}
+
+a {
+	color: #065575;
+}
+
+a:visited {
+	color: #065575;
+}
+
+#container {
+	width: 442px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#top {
+ 	background: url('images/bg-top.png');
+	width: 442px;
+	height: 21px;
+}
+
+#content {
+ 	background: url('images/bg-content.png');
+	width: 442px;
+}
+
+#bottom {
+ 	background: url('images/bg-bottom.png');
+	width: 442px;
+	height: 21px;
+}
+
+h1 {
+	font-family: arial, Trebuchet MS;
+	color: #1d8ab6;
+	font-size: 20px;
+	height: 37px;
+	padding-top: 9px;
+	padding-left: 45px;
+	padding-bottom: 0px;
+	margin-left: 20px;
+	background: url('images/h1-icon.png') no-repeat;
+	border: 1px;
+}
+
+h2 {
+	font-size: 16px;
+	margin-left: 20px;
+}
+
+p {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#password-area {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.password-form {
+	border-top: 1px dashed #79afc5;
+	border-left: 1px dashed #79afc5;
+	border-right: 1px dashed #8ec5db;
+	border-bottom: 1px dashed #8ec5db;
+	background: #f2fbfd;
+	font-size: 28px;
+	font-family: verdana;
+	font-weight: bold;
+	color: #3c6576;
+	width: 90%;
+	text-align: center;
+	margin-top: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#generate-button {
+	width: 91%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #292929;
+}
+
+
+#bottom-text {
+	font-size: 11px;
+	text-align: center;
+}
+
+.bookmark-link {
+
+}
+
+#footer {
+	font-size: 11px;
+	color: #212121;
+}
